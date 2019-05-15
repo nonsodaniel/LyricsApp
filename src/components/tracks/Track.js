@@ -26,7 +26,7 @@ const Track = props => {
             to={`lyrics/track/${track.track_id}`}
             className="btn btn-dark btn-block"
           >
-            <i className="material-icons">play_arrow</i> View Lyrics
+            <i className="material-icons">visibility</i> View Lyrics
           </Link>
         </div>
       </div>
